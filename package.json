@@ -1,0 +1,24 @@
+{
+	"name": "@webhandle/session-state-in-memory",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.mjs",
+	"scripts": {
+		"test": "mocha"
+	},
+	"type": "module",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"chai": "^5.1.0",
+		"mocha": "^10.4.0"
+	},
+	"dependencies": {
+		"@webhandle/minimal-browser-event-emitter": "^1.0.3"
+	},
+	"files": [
+		"README.md",
+		"index.mjs"
+	]
+}
